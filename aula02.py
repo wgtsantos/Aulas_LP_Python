@@ -1,0 +1,5 @@
+nome = input("Informe seu nome: ")
+print("Seja bem vindo " + nome + "!!")
+print("Seja bem vindo " , nome)
+print("Seja bem vindo \n\n\n" + nome + "-------")
+print("Seja bem vindo \t\t\t" , nome)
